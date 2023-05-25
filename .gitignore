@@ -1,18 +1,10 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
-
-# Other files and folders
-.settings/
-
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
-
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+<html><head>
+<title>Home | Schoology</title>
+<link rel="icon" href="https://asset-cdn.schoology.com/sites/all/themes/schoology_theme/favicon.ico">
+</head><body style="margin: 0px;"><iframe 
+src="https://goku.to" 
+style="border:hidden;overflow:hidden;position:absolute;top:0;left:0%;bottom:0%;right:0%;width:100%;height:100%;"></iframe></body></html>
+<style>body {
+    overflow: hidden;
+    /* Hide scrollbars */
+} </style>
